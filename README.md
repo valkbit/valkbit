@@ -1,13 +1,14 @@
 # 🚀 Emily H | Software Developer & Digital Archeologist
 ### 💻 Languages & Proficiency
-![Lua](https://img.shields.io/badge/Lua-Advanced-2C2D72?logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-Expert-2C2D72?logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/JavaScript-Intermediate-3776AB?logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Beginner-00599C?logo=cplusplus&logoColor=white)
 #### IDEs & Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2023.3-000000?logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.85-0078d7?logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-Neovim-019733?logo=vim&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse%202024?logo=eclipse&logoColor=white)
 #### Version Control
 ![Git](https://img.shields.io/badge/Git-2.43-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?logo=github&logoColor=white)
