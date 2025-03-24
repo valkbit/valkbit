@@ -4,11 +4,11 @@ Aspiring Cybersecurity Engineer and Programmer dedicated to technology and innov
 
 ## 🛠 Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=flat&logo=java)
-![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c++)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000?style=flat&logo=cybersecurity)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
+### ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
+### ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=java)
+### ![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c++)
+### ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000?style=flat&logo=cybersecurity)
+### ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 
 ## 📈 GitHub Stats
 
