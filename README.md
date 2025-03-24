@@ -20,16 +20,6 @@
 ![Backend Dev](https://img.shields.io/badge/Backend-Development-4CAF50?logo=serverless&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Research-FF4500?logo=checkmarx&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-2196F3?logo=apache&logoColor=white)
-## 💡 Key Projects
-### 🤖 ByteBun Discord Bot
-![Project](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white) ![Language](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
-
-A sophisticated Discord bot designed to enhance server management and user interaction. Features include:
-- Advanced moderation tools
-- Custom utility commands
-- Interactive user engagement mechanisms
-- Scalable architecture with plugin-based design
-
 ### 🔒 Cybersecurity Toolkit
 ![Security](https://img.shields.io/badge/Cybersecurity-Toolkit-FF4500?logo=checkmarx&logoColor=white) ![Language](https://img.shields.io/badge/Python-Penetration-3776AB?logo=python&logoColor=white)
 
@@ -49,6 +39,15 @@ Specialized Python framework for Open Source Intelligence (OSiNT) research:
 - Ethical intelligence collection methodologies
 
 ![Python](https://img.shields.io/badge/Python-OSiNT-3776AB?logo=python&logoColor=white)
+## 💡 Key Projects
+### 🤖 ByteBun Discord Bot
+![Project](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white) ![Language](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
+
+A sophisticated Discord bot designed to enhance server management and user interaction. Features include:
+- Advanced moderation tools
+- Interactive economy system
+- Feature-rich and constantly growing
+
 ## 🌐 Connect & Collaborate
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:emilyholmstroms@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?logo=discord&logoColor=white)](https://discord.com/users/126353854429265922)
