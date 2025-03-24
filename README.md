@@ -22,11 +22,14 @@
 ![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-2196F3?logo=apache&logoColor=white)
 ## 💡 Key Projects
 ### 🤖 ByteBun Discord Bot
-![Project](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white) A custom Discord bot with moderation, utility, and interactive features.
+A custom Discord bot with moderation, utility, and interactive features.
+![Project](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white)
 ### 🔒 Cybersecurity Toolkit
-![Security](https://img.shields.io/badge/Cybersecurity-Toolkit-FF4500?logo=checkmarx&logoColor=white) Custom security analysis and penetration testing utilities.
+Custom security analysis and penetration testing utilities.
+![Security](https://img.shields.io/badge/Cybersecurity-Toolkit-FF4500?logo=checkmarx&logoColor=white)
 ### 📊 Data Analysis Frameworks
-![Python](https://img.shields.io/badge/Python-OSiNT-3776AB?logo=python&logoColor=white) Specialized Python OSiNT software.
+Specialized Python OSiNT software.
+![Python](https://img.shields.io/badge/Python-OSiNT-3776AB?logo=python&logoColor=white)
 ## 🌐 Connect & Collaborate
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:emilyholmstroms@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?logo=discord&logoColor=white)](https://discord.com/users/126353854429265922)
