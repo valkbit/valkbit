@@ -35,10 +35,8 @@ A comprehensive security analysis suite focused on:
 Specialized Python framework for Open Source Intelligence (OSiNT) research:
 - Advanced data aggregation techniques
 - Cross-platform information gathering
-- Machine learning-enhanced analysis
 - Ethical intelligence collection methodologies
 
-![Python](https://img.shields.io/badge/Python-OSiNT-3776AB?logo=python&logoColor=white)
 ## 💡 Key Projects
 ### 🤖 ByteBun Discord Bot
 ![Project](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white) ![Language](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
