@@ -22,15 +22,31 @@
 ![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-2196F3?logo=apache&logoColor=white)
 ## 💡 Key Projects
 ### 🤖 ByteBun Discord Bot
-A custom Discord bot with moderation, utility, and interactive features.
+![Project](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white) ![Language](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
 
-![Project](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white)
+A sophisticated Discord bot designed to enhance server management and user interaction. Features include:
+- Advanced moderation tools
+- Custom utility commands
+- Interactive user engagement mechanisms
+- Scalable architecture with plugin-based design
+
 ### 🔒 Cybersecurity Toolkit
-Custom security analysis and penetration testing utilities.
+![Security](https://img.shields.io/badge/Cybersecurity-Toolkit-FF4500?logo=checkmarx&logoColor=white) ![Language](https://img.shields.io/badge/Python-Penetration-3776AB?logo=python&logoColor=white)
 
-![Security](https://img.shields.io/badge/Cybersecurity-Toolkit-FF4500?logo=checkmarx&logoColor=white)
-### 📊 Data Analysis Frameworks
-Specialized Python OSiNT software.
+A comprehensive security analysis suite focused on:
+- Network vulnerability scanning
+- Penetration testing utilities
+- Custom reconnaissance tools
+- Automated security assessment scripts
+
+### 📊 OSiNT Data Analysis Framework
+![Python](https://img.shields.io/badge/Python-OSiNT-3776AB?logo=python&logoColor=white) ![Research](https://img.shields.io/badge/Open%20Source-Intelligence-007ACC?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40NCAyIDIgNi40NCAyIDEyUzYuNDQgMjIgMTIgMjJzMTAtNC40IDEwLTEwUzE3LjU2IDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6bS0uMzUtNmMtLjYxIDAtMS4xLjQ5LTEuMSAxLjFzLjQ5IDEuMSAxLjEgMS4xaDAgLjcuN2MuNjEgMCAxLjEtLjQ5IDEuMS0xLjFzLS40OS0xLjEtMS4xLTEuMWgtLjd2LTMuM2MwLS42MS0uNDktMS4xLTEuMS0xLjFzLTEuMS40OS0xLjEgMS4xdjQuNGMwIC42MS40OSAxLjEgMS4xIDEuMWgyLjF6Ii8+PC9zdmc+&logoColor=white)
+
+Specialized Python framework for Open Source Intelligence (OSiNT) research:
+- Advanced data aggregation techniques
+- Cross-platform information gathering
+- Machine learning-enhanced analysis
+- Ethical intelligence collection methodologies
 
 ![Python](https://img.shields.io/badge/Python-OSiNT-3776AB?logo=python&logoColor=white)
 ## 🌐 Connect & Collaborate
