@@ -4,7 +4,7 @@
 
 ### 💻 Languages
 ![Lua](https://img.shields.io/badge/Lua-Master-2C2D72?logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Expert-ED8B00?logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Learning-00599C?logo=cplusplus&logoColor=white)
 
@@ -19,12 +19,12 @@
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6?logo=windows&logoColor=white)
 
 ### 🌐 Technologies
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Research-FF4500?logo=checkmarx&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Researcher-FF4500?logo=checkmarx&logoColor=white)
 
 ## 💡 Key Projects
 
 ### 🤖 ByteBun Discord Bot
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hollowminded&repo=bytebun&theme=radical)](https://github.com/yourusername/bytebun)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hollowminded&repo=bytebun&theme=radical)](https://github.com/hollowminded/bytebun)
 
 ## 📊 GitHub Overview
 
