@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+**# 👋 Welcome to My GitHub Profile!
 
 ## 🔧 Technologies & Tools
 
@@ -34,3 +34,4 @@
 
 ![Spotify Now Playing](https://spotify-now-playing-kappa.vercel.app/api/spotify)
 
+**
