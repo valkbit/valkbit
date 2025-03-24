@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://github.com/yourusername/hollowminded/blob/main/github-metrics.svg)
+![Metrics](https://github.com/hollowminded/hollowminded/blob/main/github-metrics.svg)
 
 ## 🏆 Achievements & Contributions
 
