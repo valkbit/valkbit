@@ -8,7 +8,7 @@
 #### IDEs & Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2023.3-000000?logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.85-0078d7?logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2025-03-2C2255?logo=eclipse&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2025.03-2C2255?logo=eclipse&logoColor=white)
 #### Version Control
 ![Git](https://img.shields.io/badge/Git-2.43-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?logo=github&logoColor=white)
