@@ -23,7 +23,7 @@
 
 ## 💡 Key Projects
 ### 🤖 ByteBun Discord Bot
-![Project](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white) ![Language](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
+![Project](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white) ![Language](https://img.shields.io/badge/JavaScript-3776AB?logo=javascript&logoColor=white)
 
 A sophisticated Discord bot designed to enhance server management and user interaction. Features include:
 - Advanced moderation tools
