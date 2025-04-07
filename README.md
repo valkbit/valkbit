@@ -1,4 +1,4 @@
-# 🚀 "HOLLOWMINDED" | Software Developer & Digital Archeologist
+# 🚀 "VALKBIT" | Software Developer & Digital Archeologist
 ### 💻 Languages & Proficiency
 ![Lua](https://img.shields.io/badge/Lua-Expert-2C2D72?logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?logo=openjdk&logoColor=white)
