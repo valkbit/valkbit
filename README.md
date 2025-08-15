@@ -3,7 +3,7 @@
 ![Lua](https://img.shields.io/badge/Lua-Expert-2C2D72?logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-Beginner-00599C?logo=cplusplus&logoColor=white)
 #### IDEs & Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2023.3-000000?logo=intellij-idea&logoColor=white)
