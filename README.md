@@ -22,7 +22,7 @@
 ![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-2196F3?logo=apache&logoColor=white)
 
 ## 💡 Key Projects
-### 🌐 SCP.homes
+### 🌐 [SCP.homes](https://scp.homes/)
 ![Project](https://img.shields.io/badge/Node.js-3776AB?logo=javascript&logoColor=green) ![Language](https://img.shields.io/badge/JavaScript-3776AB?logo=javascript&logoColor=white)
 
 A feature rich SCP database where the content is AI generated:
