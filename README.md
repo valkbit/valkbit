@@ -22,6 +22,14 @@
 ![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-2196F3?logo=apache&logoColor=white)
 
 ## 💡 Key Projects
+### 🌐 SCP.homes
+![Project](https://img.shields.io/badge/Node.js-3776AB?logo=javascript&logoColor=green) ![Language](https://img.shields.io/badge/JavaScript-3776AB?logo=javascript&logoColor=white)
+
+A feature rich SCP database where the content is AI generated:
+- Constantly expanding and unique articles.
+- Forum-like aspects with comments and user profiles.
+- Achievements and progression
+
 ### 🤖 ByteBun Discord Bot
 ![Project](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white) ![Language](https://img.shields.io/badge/JavaScript-3776AB?logo=javascript&logoColor=white)
 
@@ -30,7 +38,7 @@ A sophisticated Discord bot designed to enhance server management and user inter
 - Interactive economy system
 - Feature-rich and constantly growing
 
-### 📊 PuppyNet Framework
+### 📊 Project Dogwhistle
 ![Python](https://img.shields.io/badge/Python-OSiNT-3776AB?logo=python&logoColor=white) ![Research](https://img.shields.io/badge/Open%20Source-Intelligence-007ACC?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40NCAyIDIgNi40NCAyIDEyUzYuNDQgMjIgMTIgMjJzMTAtNC40IDEwLTEwUzE3LjU2IDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6bS0uMzUtNmMtLjYxIDAtMS4xLjQ5LTEuMSAxLjFzLjQ5IDEuMSAxLjEgMS4xaDAgLjcuN2MuNjEgMCAxLjEtLjQ5IDEuMS0xLjFzLS40OS0xLjEtMS4xLTEuMWgtLjd2LTMuM2MwLS42MS0uNDktMS4xLTEuMS0xLjFzLTEuMS40OS0xLjEgMS4xdjQuNGMwIC42MS40OSAxLjEgMS4xIDEuMWgyLjF6Ii8+PC9zdmc+&logoColor=white)
 
 Specialized Python framework for Open Source Intelligence (OSiNT) research:
